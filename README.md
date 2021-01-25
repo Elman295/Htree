@@ -3,4 +3,4 @@ you can input one (int) for n and create htree for you
 
 
 
-![Brownian motion](htree1.png)
+![htree1](htree1.png)
